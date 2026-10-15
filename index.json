@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "kubespawner",
+  "versions": [
+    {
+      "commit": "47ce269d515b7b509cb5ebe45d69ebe79d9dd6c6",
+      "tag": "",
+      "parsed_at": "2026-10-15T10:15:44.338052+00:00"
+    }
+  ]
+}
